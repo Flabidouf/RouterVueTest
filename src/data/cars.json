@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "price": 15000,
+        "year": "2019",
+        "contact":{
+            "dealer":"Carl",
+            "number":"123456789"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Stef Loom",
+        "price": 1500,
+        "year": "2079",
+        "contact":{
+            "dealer":"Alex",
+            "number":"89890"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Garry LIM",
+        "price": 5000,
+        "year": "2010",
+        "contact":{
+            "dealer":"Miriam",
+            "number":"5555"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Bill Bombay",
+        "price": 1000,
+        "year": "209",
+        "contact":{
+            "dealer":"Lora",
+            "number":"00000"
+        }
+    }
+]
